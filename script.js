@@ -8,4 +8,3 @@ var obj = {
 };
 console.log(obj["name"]);
 
-let arr = ['plum.png', 'orange.jpg', 'apple.bmp'];
